@@ -3,3 +3,5 @@
 Using this repository for my Bio Informatics class at ucsd! This repo is for my UCSD bioinformatics class.
 
 Adding more text to try it out
+
+Well, I added my lab 2 report into here!
